@@ -14,7 +14,7 @@ To make it easier clone the repository to a **.folder** in your **HOME** directo
 
 ```bash
 cd $HOME
-mkdir -p .bash/themes/custom_bash_powerline
+mkdir -p .bash/themes/custom-bash-powerline
 git clone https://github.com/hdamarcelo/custom-bash-powerline.git .bash/themes/custom-bash-powerline
 ```
 
