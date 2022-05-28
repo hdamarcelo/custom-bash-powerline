@@ -37,7 +37,14 @@ Currently it is not possible to disable the custom segments with developer orien
    * docker
    * kubectl
 
-2. You will also need a
+2. Depending on the linux distribution or git-bash installation it may be necessary to change the following line in the **theme.bash** file:
+```bash
+source /usr/share/git-core/contrib/completion/git-prompt.sh
+# Change this line if the git-prompt.sh script is in another location
+# Using itavoids reinventing the whell on how to get repository information
+```
+
+3. You will also need a
 [Powerline-patched font](https://github.com/powerline/fonts). Or else the custom characters won't show properly.
 
 ## License
