@@ -2,10 +2,9 @@
 
 Simple powerline theme for bash.
 
-![ScreenShot-Complete](screenshot-complete.png)
+![ScreenShot-Complete](screenshot-complete.png "Complete layout") 
 
-![ScreenShot-Compact](screenshot-compact.png)
-
+![ScreenShot-Compact](screenshot-compact.png "Compact layout")
 
 ## Install:
 
