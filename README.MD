@@ -2,6 +2,8 @@
 
 Simple powerline theme for bash.
 
+Made from scratch to learn how the bash prompt is assembled with ideas from other similar projects.
+
 ![ScreenShot-Complete](screenshot-complete.png "Complete layout") 
 
 ![ScreenShot-Compact](screenshot-compact.png "Compact layout")
@@ -29,7 +31,7 @@ fi
 unset THEME
 ```
 
-## Dependencies
+## Dependencies:
 
 Currently it is not possible to disable the custom segments with developer oriented information (feel free to change this :) ). So you will also need to have these executables in your PATH:
 
@@ -47,6 +49,6 @@ source /usr/share/git-core/contrib/completion/git-prompt.sh
 3. You will also need a
 [Powerline-patched font](https://github.com/powerline/fonts). Or else the custom characters won't show properly.
 
-## License
+## License:
 
 MIT
